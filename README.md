@@ -15,23 +15,5 @@ The system is built with a decoupled architecture, featuring a **Flask REST API 
 - 🖥️ Modern, responsive frontend with React.js
 - 🔌 Decoupled backend and frontend architecture
 
----
 
-## 🛠️ Tech Stack
-
-### Backend
-- Python
-- Flask
-- NLP / Machine Learning models
-- REST API
-
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-
----
-
-## 📐 Architecture Overview
 
